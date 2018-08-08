@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resources</string>
+    <string name="label1">Esto es un encabezado %1$s %2$s</string>
+    <string name="val1">valor 1</string>
+    <string name="val2">valor 2</string>
+</resources>

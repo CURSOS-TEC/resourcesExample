@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Resources</string>
+    <string name="label1">This is a Header %1$s %2$s</string>
+    <string name="val1">value 1</string>
+    <string name="val2">value 2</string>
+</resources>
